@@ -6,3 +6,4 @@ move	Gallesia	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/resea
 move	Seguieria	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/research/apweb/
 move	Hilleria	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/research/apweb/
 move	Croizatia	genus	Phyllanthaceae	Magnoliophyta	http://dx.doi.org/10.3732/ajb.1000404
+prune Magnoliopsida class Magnoliophyta http://www.mobot.org/mobot/research/apweb/

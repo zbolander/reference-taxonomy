@@ -6,3 +6,11 @@ move	Gallesia	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/resea
 move	Seguieria	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/research/apweb/
 move	Hilleria	genus	Petiveriaceae	Magnoliophyta	http://www.mobot.org/mobot/research/apweb/
 move	Croizatia	genus	Phyllanthaceae	Magnoliophyta	http://dx.doi.org/10.3732/ajb.1000404
+
+
+# New edits from Bryan Drew 2014-4-15
+# this will make the genus Lepechinia monophyletic
+
+synonym Lepechinia mecistandra  Chaunostoma mecistandrum  http://www.mapress.com/phytotaxa/content/2012/f/p00071p052f.pdf
+synonym Lepechinia leucophylloides  Neoeplingia leucophylloides http://dx.doi.org/10.1600/036364411X605047
+
